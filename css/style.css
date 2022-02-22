@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kufam:ital@1&display=swap');
+
+* {
+    font-family: 'Staatliches', cursive;
+    text-align: center;
+}
+
+p {
+    font-family: 'Kufam', sans-serif;
+}
+
+body {
+    background-image: url("../img/backgroud.jpg");
+    background-repeat: no-repeat;
+    height: 1200px;
+    background-position: left;
+    background-attachment: scroll;
+    background-size: auto;
+}
